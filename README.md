@@ -1,6 +1,6 @@
-# E-COMMERCE EMPRESA TEC
+# **E-COMMERCE EMPRESA** TEC
 
-vamos criar um e-commerce
+*vamos* criar um **e-commerce**
 
 ## Funcionalidade
 
