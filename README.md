@@ -29,5 +29,5 @@ __Melhoria 1__, _melhoria 2_
 
 ### Imagem local
 
-![Logo do pyton](img/Pyton.png)
+![Logo do pyton](img/python_18894.png)
 
