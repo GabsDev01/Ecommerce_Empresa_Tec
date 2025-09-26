@@ -55,7 +55,7 @@ https://www.github.com./matheusbattisti
  
  ### LISTA DE TAREFAS A FAZER:
 
-- [ x ] Area de Membros
-- [  ] Interação com outros pagamentos
-- [  ] Sistema de bonus
-- [ x ] CSS do rodapé
+- [x]  Area de Membros
+- [ ] Interação com outros pagamentos
+- [ ] Sistema de bonus
+- [x] CSS do rodapé
