@@ -38,3 +38,18 @@ __Melhoria 1__, _melhoria 2_
 ### Links interessantes:
 
 [Google](https://www.google.com)
+
+[![Logo do php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://horadecodar.com.br)
+
+https://www.github.com./matheusbattisti
+
+[https://horadecodar.com.br](https://horadecodar.com.br)
+
+## Código da Função soma
+
+```javascript
+ function soma(a, b) {
+ return a + b;
+ }
+```
+ 
